@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>wallmar-dev-relesepipe repo</name>
-	      <url>http://3.129.68.119:8081/repository/wallmar-dev-relesepipe/</url>
+	      <name>web-pipe-release repo</name>
+	      <url>http://3.129.68.119:8081/repository/web-pipe-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>wallmar-dev-snapshot-pipe repo</name>
-	      <url>http://3.129.68.119:8081/repository/wallmar-dev-snapshot-pipe/</url>
+	      <name>web-pipe-snapshot repo</name>
+	      <url>http://3.129.68.119:8081/repository/web-pipe-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
